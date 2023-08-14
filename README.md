@@ -2,6 +2,8 @@
 
 This repository contains the final tests of **"Hypermedia Applications (Web and Multimedia)"** course of **"Computer Science and Engineering"** held at Politecnico di Milano (2022/2023).
 
+**Score**: 30/30
+
 **Professor**: Garzotto Franca
 
 **Group Name**: Web Wizards
